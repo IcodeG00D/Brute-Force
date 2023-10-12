@@ -1,6 +1,4 @@
-#python project skinned with multiple faces and without gray scale
-
-
+#BF Search Project
 import cv2
 
 # Define the paths of the target images
