@@ -24,4 +24,4 @@ To get started with the project, follow these steps:
    ALL THE BEST !
 
 ```bash
-python main.py
+
